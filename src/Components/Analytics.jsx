@@ -1,5 +1,5 @@
 import React from 'react';
-import im1 from '/home/ace/Documents/Web-dev/semi-business-site/Semi-Business_site/src/Components/images/im1.jpg';
+import im1 from './images/im1.jpg';
 
 const Analytics = () => {
   return (
