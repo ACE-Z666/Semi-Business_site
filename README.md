@@ -14,5 +14,5 @@ Eclipso is a comprehensive web hosting platform designed to provide users with a
 - HTML5
 - CSS3
 - JavaScript
-- Node.js
-- Express.js
+- React.js
+- Tailwind CSS
