@@ -1,18 +1,41 @@
-# Eclipso Web Hosting
+# Eclipso
 
-Eclipso is a comprehensive web hosting platform designed to provide users with an efficient, reliable, and easy-to-use interface for managing their websites. This project focuses on delivering top-notch performance and scalability.
+A modern web hosting platform website built with React and Tailwind CSS.
 
-## Features
+**Live Site:** [eclipso.vercel.app](https://eclipso.vercel.app/)
 
-- **User-Friendly Interface:** Simplified navigation and intuitive design.
-- **High Performance:** Optimized for speed and reliability.
-- **Scalability:** Supports growing websites with ease.
-- **Secure Hosting:** Robust security measures to protect your data.
+---
 
-## Technologies Used
+## Tech Stack
 
+- React.js
+- Tailwind CSS
 - HTML5
 - CSS3
 - JavaScript
-- React.js
-- Tailwind CSS
+
+---
+
+## Features
+
+- User-friendly interface
+- Responsive design
+- Modern UI/UX
+- Fast and optimized
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/ACE-Z666/Semi-Business_site.git
+cd Semi-Business_site
+npm install
+npm start
+```
+
+---
+
+## License
+
+MIT
