@@ -35,7 +35,3 @@ npm start
 ```
 
 ---
-
-## License
-
-MIT
